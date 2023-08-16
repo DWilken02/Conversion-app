@@ -24,4 +24,4 @@ Copy down git repository
 
 If you run into any issues please contact me at DW@gmail.com(This is not a real email and is just for this practice project).
 
-Copyright (c) _2/2/23_ _DWilken02_
+Copyright (c) _8/3/23_ _DWilken02_
